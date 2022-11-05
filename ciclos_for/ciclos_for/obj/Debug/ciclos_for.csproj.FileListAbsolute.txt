@@ -1,0 +1,5 @@
+C:\Users\1\Documents\SharpDevelop Projects\ciclos_for\ciclos_for\bin\Debug\ciclos_for.exe
+C:\Users\1\Documents\SharpDevelop Projects\ciclos_for\ciclos_for\bin\Debug\ciclos_for.pdb
+C:\Users\1\Documents\SharpDevelop Projects\ciclos_for\ciclos_for\obj\Debug\ciclos_for.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\SharpDevelop Projects\ciclos_for\ciclos_for\obj\Debug\ciclos_for.exe
+C:\Users\1\Documents\SharpDevelop Projects\ciclos_for\ciclos_for\obj\Debug\ciclos_for.pdb

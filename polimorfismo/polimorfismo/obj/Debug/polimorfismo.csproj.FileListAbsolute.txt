@@ -1,0 +1,5 @@
+C:\Users\1\Documents\SharpDevelop Projects\polimorfismo\polimorfismo\obj\Debug\polimorfismo.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\SharpDevelop Projects\polimorfismo\polimorfismo\bin\Debug\polimorfismo.exe
+C:\Users\1\Documents\SharpDevelop Projects\polimorfismo\polimorfismo\bin\Debug\polimorfismo.pdb
+C:\Users\1\Documents\SharpDevelop Projects\polimorfismo\polimorfismo\obj\Debug\polimorfismo.exe
+C:\Users\1\Documents\SharpDevelop Projects\polimorfismo\polimorfismo\obj\Debug\polimorfismo.pdb

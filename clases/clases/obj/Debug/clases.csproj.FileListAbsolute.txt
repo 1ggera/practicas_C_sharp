@@ -1,0 +1,5 @@
+C:\Users\1\Documents\SharpDevelop Projects\clases\clases\bin\Debug\clases.exe
+C:\Users\1\Documents\SharpDevelop Projects\clases\clases\bin\Debug\clases.pdb
+C:\Users\1\Documents\SharpDevelop Projects\clases\clases\obj\Debug\clases.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\SharpDevelop Projects\clases\clases\obj\Debug\clases.exe
+C:\Users\1\Documents\SharpDevelop Projects\clases\clases\obj\Debug\clases.pdb

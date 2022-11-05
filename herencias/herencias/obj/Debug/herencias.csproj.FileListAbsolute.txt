@@ -1,0 +1,5 @@
+C:\Users\1\Documents\SharpDevelop Projects\herencias\herencias\bin\Debug\herencias.exe
+C:\Users\1\Documents\SharpDevelop Projects\herencias\herencias\bin\Debug\herencias.pdb
+C:\Users\1\Documents\SharpDevelop Projects\herencias\herencias\obj\Debug\herencias.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\SharpDevelop Projects\herencias\herencias\obj\Debug\herencias.exe
+C:\Users\1\Documents\SharpDevelop Projects\herencias\herencias\obj\Debug\herencias.pdb

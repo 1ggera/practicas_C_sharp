@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vectores_matrices", "vectores_matrices\vectores_matrices.csproj", "{66D28F58-B0D7-45C2-915F-1E1B466B3A0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D28F58-B0D7-45C2-915F-1E1B466B3A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D28F58-B0D7-45C2-915F-1E1B466B3A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D28F58-B0D7-45C2-915F-1E1B466B3A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D28F58-B0D7-45C2-915F-1E1B466B3A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

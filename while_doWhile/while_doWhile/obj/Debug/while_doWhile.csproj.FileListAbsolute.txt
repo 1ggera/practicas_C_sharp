@@ -1,0 +1,5 @@
+C:\Users\1\Documents\SharpDevelop Projects\while_doWhile\while_doWhile\bin\Debug\while_doWhile.exe
+C:\Users\1\Documents\SharpDevelop Projects\while_doWhile\while_doWhile\bin\Debug\while_doWhile.pdb
+C:\Users\1\Documents\SharpDevelop Projects\while_doWhile\while_doWhile\obj\Debug\while_doWhile.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\SharpDevelop Projects\while_doWhile\while_doWhile\obj\Debug\while_doWhile.exe
+C:\Users\1\Documents\SharpDevelop Projects\while_doWhile\while_doWhile\obj\Debug\while_doWhile.pdb

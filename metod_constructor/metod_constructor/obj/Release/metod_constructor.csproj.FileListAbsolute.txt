@@ -1,0 +1,3 @@
+C:\Users\1\Documents\SharpDevelop Projects\metod_constructor\metod_constructor\bin\Release\metod_constructor.exe
+C:\Users\1\Documents\SharpDevelop Projects\metod_constructor\metod_constructor\obj\Release\metod_constructor.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\SharpDevelop Projects\metod_constructor\metod_constructor\obj\Release\metod_constructor.exe

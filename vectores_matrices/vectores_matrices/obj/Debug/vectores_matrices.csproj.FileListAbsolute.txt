@@ -1,0 +1,5 @@
+C:\Users\1\Documents\SharpDevelop Projects\vectores_matrices\vectores_matrices\obj\Debug\vectores_matrices.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\SharpDevelop Projects\vectores_matrices\vectores_matrices\bin\Debug\vectores_matrices.exe
+C:\Users\1\Documents\SharpDevelop Projects\vectores_matrices\vectores_matrices\bin\Debug\vectores_matrices.pdb
+C:\Users\1\Documents\SharpDevelop Projects\vectores_matrices\vectores_matrices\obj\Debug\vectores_matrices.exe
+C:\Users\1\Documents\SharpDevelop Projects\vectores_matrices\vectores_matrices\obj\Debug\vectores_matrices.pdb
