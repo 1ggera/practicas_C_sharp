@@ -1,2 +1,2 @@
 # practicas_C_sharp
-Ejercicios de practica en C sharp
+Ejercicios de práctica en C sharp
